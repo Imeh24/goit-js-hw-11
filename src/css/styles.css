@@ -46,8 +46,12 @@ img {
   padding-left: 15px;
   border: none;
   outline: none;
+  height: 30px;
 }
 
+.search-btn {
+ height: 32px;
+}
 
 .gallery {
   display: flex;
